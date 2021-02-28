@@ -15,14 +15,14 @@ In [Datasheets](./Datasheets) and [Schematics](./Schematics) directories, you ca
 
 ## Basic device characteristics:
 **PCB versions:**
-* **PCB_rpitx-coax-pcb-NOFILTER** - no filtering, only output to SMA connector.
-* **PCB_rpitx-coax-pcb-GP1212** - the radio path passes through a filter in the GP1212 case.
+* **PCB_rpitx-coax-pcb-NOFILTER** - no filtering, only output to SMA connector
+* **PCB_rpitx-coax-pcb-GP1212** - the radio path passes through a filter in the GP1212 case
 
-**RF connector:** SMA;  
-**Feed line:** 50 Ohm coaxial cable;  
-**Used PCB Material:** FR-4;  
-**PCB thickness:** 1.6 mm;  
-**PCB copper weight:** 1 oz;  
+**RF connector:** SMA
+**Feed line:** 50 Ohm coaxial cable 
+**Used PCB Material:** FR-4 
+**PCB thickness:** 1.6 mm  
+**PCB copper weight:** 1 oz  
 
 ## Resources:
 [rpitx project page at GitHub][2]  
