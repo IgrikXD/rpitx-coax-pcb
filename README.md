@@ -1,6 +1,6 @@
 # rpitx-coax-pcb
 
-Expansion board for Raspberry PI allowing to use coaxial SMA output instead of direct wire connection to GPIO to connect radio equipment (antennas, amplifiers, switches, etc.) when working with the [rpitx](https://github.com/F5OEO/rpitx) package.
+Expansion board for Raspberry PI allowing to use coaxial SMA output instead of direct wire connection to GPIO to connect radio equipment (antennas, amplifiers, switches, etc.) when working with the [rpitx][2] package.
 
 The PCB is installed by attaching to the GPIO of the Raspberry PI and can be additionally fixed by using the holes on the Raspberry PI and expansion board side.
 
