@@ -16,7 +16,7 @@ In [Datasheets](./Datasheets) and [Schematics](./Schematics) directories, you ca
 ## Basic device characteristics:
 **PCB versions:**
 * **PCB_rpitx-coax-pcb-NOFILTER** - no filtering, only output to SMA connector
-* **PCB_rpitx-coax-pcb-GP1212** - the radio path passes through a filter in the GP1212 case
+* **PCB_rpitx-coax-pcb-GP1212-GP731** - the radio path passes through a filter in the GP1212 / GP731 case
 
 **RF connector:** SMA  
 **Feed line:** 50 Ohm coaxial cable  
@@ -26,7 +26,7 @@ In [Datasheets](./Datasheets) and [Schematics](./Schematics) directories, you ca
 
 ## Resources:
 [rpitx project page at GitHub][2]  
-Buy RLP-30+ Low pass filter: [Mini-Circuits RLP-30+][3]  
+[Buy filters in GP1212  / GP731 case][3]   
 
 ## How to contact me?
 - E-mail: igor.nikolaevich.96@gmail.com
@@ -35,4 +35,4 @@ Buy RLP-30+ Low pass filter: [Mini-Circuits RLP-30+][3]
 
   [1]: https://easyeda.com/IgrikXD/rpitx-coax-pcb
   [2]: https://github.com/F5OEO/rpitx
-  [3]: https://www.minicircuits.com/WebStore/dashboard.html?model=RLP-30%2B
+  [3]: https://www.minicircuits.com/WebStore/RF-Filters.html
