@@ -5,7 +5,7 @@ Expansion board for Raspberry PI allowing to use coaxial SMA output instead of d
 The PCB is installed by attaching to the GPIO of the Raspberry PI and can be additionally fixed by using the holes on the Raspberry PI and expansion board side.
 
 ## Current development progress:
-[![Progress](https://img.shields.io/badge/rpitx--coax--pcb-not%20tested-red.svg?longCache=true&style=for-the-badge)](https://easyeda.com/IgrikXD/rpitx-coax-pcb)&nbsp;[![Progress](https://img.shields.io/badge/version-1.0-blue.svg?longCache=true&style=for-the-badge)](./EasyEDA)
+[![Progress](https://img.shields.io/badge/rpitx--coax--pcb-tested-green.svg?longCache=true&style=for-the-badge)](https://easyeda.com/IgrikXD/rpitx-coax-pcb)&nbsp;[![Progress](https://img.shields.io/badge/version-1.0-blue.svg?longCache=true&style=for-the-badge)](./EasyEDA)
 
 ## Implementations at EasyEDA platform:
 - [rpitx-coax-pcb][1] ([Components list](./Components-list.md), [Usage guide](./Usage-guide.md))
