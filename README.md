@@ -11,6 +11,8 @@ Your support helps me continue developing open-source projects like [WSPR-beacon
 
 ## Current development progress
 [![Progress](https://img.shields.io/badge/rpitx--coax--pcb-tested-green.svg?longCache=true&style=for-the-badge)](https://easyeda.com/IgrikXD/rpitx-coax-pcb)&nbsp;[![Progress](https://img.shields.io/badge/version-1.0-blue.svg?longCache=true&style=for-the-badge)](./EasyEDA)
+> [!NOTE]
+> **Device support has ended, and the current version is the final stable release.** No new features or bug-fix releases are planned. This repository remains publicly available as a reference for further development of other modules.
 
 ## Implementations at EasyEDA platform
 - [rpitx-coax-pcb][1] ([Components list](./Components-list.md), [Usage guide](./Usage-guide.md))
